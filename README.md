@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # @piximi/image-dialog
 
 Piximi’s `ImageDialog` component
